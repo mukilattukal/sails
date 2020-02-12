@@ -26,7 +26,7 @@
   "main": "app.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/anonymous node/sails user/sails-app.git"
+    "url": "git://github.com/mukilattukal/sails.git"
   },
   "author": "anonymous node/sails user",
   "license": "",
